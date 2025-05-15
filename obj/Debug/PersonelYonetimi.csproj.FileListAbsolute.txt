@@ -1,0 +1,26 @@
+C:\OneDrive\Desktop\PersonelYonetimi\bin\Debug\PersonelYonetimi.exe.config
+C:\OneDrive\Desktop\PersonelYonetimi\bin\Debug\PersonelYonetimi.exe
+C:\OneDrive\Desktop\PersonelYonetimi\bin\Debug\PersonelYonetimi.pdb
+C:\OneDrive\Desktop\PersonelYonetimi\obj\Debug\PersonelYonetimi.csproj.AssemblyReference.cache
+C:\OneDrive\Desktop\PersonelYonetimi\obj\Debug\PersonelYonetimi.FormGiris.resources
+C:\OneDrive\Desktop\PersonelYonetimi\obj\Debug\PersonelYonetimi.Properties.Resources.resources
+C:\OneDrive\Desktop\PersonelYonetimi\obj\Debug\PersonelYonetimi.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\PersonelYonetimi\obj\Debug\PersonelYonetimi.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\PersonelYonetimi\obj\Debug\PersonelYonetimi.exe
+C:\OneDrive\Desktop\PersonelYonetimi\obj\Debug\PersonelYonetimi.pdb
+C:\OneDrive\Desktop\PersonelYonetimi\obj\Debug\PersonelYonetimi.FormPersonel.resources
+C:\OneDrive\Desktop\PersonelYonetimi\obj\Debug\PersonelYonetimi.FormDuzenle.resources
+C:\OneDrive\Desktop\PersonelYonetimi\obj\Debug\PersonelYonetimi.FormDepartman.resources
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\bin\Debug\PersonelYonetimi.exe.config
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\bin\Debug\PersonelYonetimi.exe
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\bin\Debug\PersonelYonetimi.pdb
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\obj\Debug\PersonelYonetimi.csproj.AssemblyReference.cache
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\obj\Debug\PersonelYonetimi.FormDepartman.resources
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\obj\Debug\PersonelYonetimi.FormDuzenle.resources
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\obj\Debug\PersonelYonetimi.FormGiris.resources
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\obj\Debug\PersonelYonetimi.FormPersonel.resources
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\obj\Debug\PersonelYonetimi.Properties.Resources.resources
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\obj\Debug\PersonelYonetimi.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\obj\Debug\PersonelYonetimi.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\obj\Debug\PersonelYonetimi.exe
+C:\OneDrive\Desktop\PersonelYonetimi - Kopya\obj\Debug\PersonelYonetimi.pdb

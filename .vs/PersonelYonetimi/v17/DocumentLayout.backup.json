@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OneDrive\\Desktop\\PersonelYonetimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A730193C-E531-49BF-B676-73374721A608}|PersonelYonetimi.csproj|c:\\onedrive\\desktop\\personelyonetimi\\formduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A730193C-E531-49BF-B676-73374721A608}|PersonelYonetimi.csproj|solutionrelative:formduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A730193C-E531-49BF-B676-73374721A608}|PersonelYonetimi.csproj|C:\\OneDrive\\Desktop\\PersonelYonetimi\\formdepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A730193C-E531-49BF-B676-73374721A608}|PersonelYonetimi.csproj|solutionrelative:formdepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A730193C-E531-49BF-B676-73374721A608}|PersonelYonetimi.csproj|C:\\OneDrive\\Desktop\\PersonelYonetimi\\formpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A730193C-E531-49BF-B676-73374721A608}|PersonelYonetimi.csproj|solutionrelative:formpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A730193C-E531-49BF-B676-73374721A608}|PersonelYonetimi.csproj|C:\\OneDrive\\Desktop\\PersonelYonetimi\\formdepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A730193C-E531-49BF-B676-73374721A608}|PersonelYonetimi.csproj|solutionrelative:formdepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A730193C-E531-49BF-B676-73374721A608}|PersonelYonetimi.csproj|C:\\OneDrive\\Desktop\\PersonelYonetimi\\formduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A730193C-E531-49BF-B676-73374721A608}|PersonelYonetimi.csproj|solutionrelative:formduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDepartman.cs",
+              "DocumentMoniker": "C:\\OneDrive\\Desktop\\PersonelYonetimi\\FormDepartman.cs",
+              "RelativeDocumentMoniker": "FormDepartman.cs",
+              "ToolTip": "C:\\OneDrive\\Desktop\\PersonelYonetimi\\FormDepartman.cs",
+              "RelativeToolTip": "FormDepartman.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAtwD8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:04:40.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDuzenle.cs",
+              "DocumentMoniker": "C:\\OneDrive\\Desktop\\PersonelYonetimi\\FormDuzenle.cs",
+              "RelativeDocumentMoniker": "FormDuzenle.cs",
+              "ToolTip": "C:\\OneDrive\\Desktop\\PersonelYonetimi\\FormDuzenle.cs",
+              "RelativeToolTip": "FormDuzenle.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAtwFIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:01:00.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPersonel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\OneDrive\\Desktop\\PersonelYonetimi\\FormPersonel.cs",
+              "RelativeDocumentMoniker": "FormPersonel.cs",
+              "ToolTip": "C:\\OneDrive\\Desktop\\PersonelYonetimi - Kopya\\FormPersonel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\PersonelYonetimi - Kopya\\FormPersonel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:47:40.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDepartman.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\OneDrive\\Desktop\\PersonelYonetimi\\FormDepartman.cs",
+              "RelativeDocumentMoniker": "FormDepartman.cs",
+              "ToolTip": "C:\\OneDrive\\Desktop\\PersonelYonetimi - Kopya\\FormDepartman.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\PersonelYonetimi - Kopya\\FormDepartman.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:02:42.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDuzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\OneDrive\\Desktop\\PersonelYonetimi\\FormDuzenle.cs",
+              "RelativeDocumentMoniker": "FormDuzenle.cs",
+              "ToolTip": "C:\\OneDrive\\Desktop\\PersonelYonetimi - Kopya\\FormDuzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\PersonelYonetimi - Kopya\\FormDuzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:54:54.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
