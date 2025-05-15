@@ -299,7 +299,7 @@
             // tbID
             // 
             this.tbID.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.tbID.Location = new System.Drawing.Point(143, 52);
+            this.tbID.Location = new System.Drawing.Point(156, 46);
             this.tbID.Name = "tbID";
             this.tbID.Size = new System.Drawing.Size(171, 22);
             this.tbID.TabIndex = 9;
@@ -307,7 +307,7 @@
             // tbIsım
             // 
             this.tbIsım.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.tbIsım.Location = new System.Drawing.Point(143, 108);
+            this.tbIsım.Location = new System.Drawing.Point(156, 102);
             this.tbIsım.Name = "tbIsım";
             this.tbIsım.Size = new System.Drawing.Size(171, 22);
             this.tbIsım.TabIndex = 0;
@@ -315,7 +315,7 @@
             // tbSoyisim
             // 
             this.tbSoyisim.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.tbSoyisim.Location = new System.Drawing.Point(143, 164);
+            this.tbSoyisim.Location = new System.Drawing.Point(156, 158);
             this.tbSoyisim.Name = "tbSoyisim";
             this.tbSoyisim.Size = new System.Drawing.Size(171, 22);
             this.tbSoyisim.TabIndex = 11;
@@ -323,7 +323,7 @@
             // tbPozisyon
             // 
             this.tbPozisyon.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.tbPozisyon.Location = new System.Drawing.Point(143, 278);
+            this.tbPozisyon.Location = new System.Drawing.Point(156, 272);
             this.tbPozisyon.Name = "tbPozisyon";
             this.tbPozisyon.Size = new System.Drawing.Size(171, 22);
             this.tbPozisyon.TabIndex = 13;
@@ -331,7 +331,7 @@
             // tbMaas
             // 
             this.tbMaas.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.tbMaas.Location = new System.Drawing.Point(143, 392);
+            this.tbMaas.Location = new System.Drawing.Point(156, 386);
             this.tbMaas.Name = "tbMaas";
             this.tbMaas.Size = new System.Drawing.Size(171, 22);
             this.tbMaas.TabIndex = 15;
@@ -443,7 +443,7 @@
             this.cbDepartman.DataSource = this.departmanBindingSource2;
             this.cbDepartman.DisplayMember = "DepartmanAdi";
             this.cbDepartman.FormattingEnabled = true;
-            this.cbDepartman.Location = new System.Drawing.Point(143, 220);
+            this.cbDepartman.Location = new System.Drawing.Point(156, 214);
             this.cbDepartman.Name = "cbDepartman";
             this.cbDepartman.Size = new System.Drawing.Size(171, 24);
             this.cbDepartman.TabIndex = 23;
@@ -463,7 +463,7 @@
             // 
             this.datetpDogumTarihi.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.datetpDogumTarihi.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.datetpDogumTarihi.Location = new System.Drawing.Point(143, 334);
+            this.datetpDogumTarihi.Location = new System.Drawing.Point(156, 328);
             this.datetpDogumTarihi.MaxDate = new System.DateTime(2310, 12, 31, 0, 0, 0, 0);
             this.datetpDogumTarihi.Name = "datetpDogumTarihi";
             this.datetpDogumTarihi.Size = new System.Drawing.Size(171, 24);

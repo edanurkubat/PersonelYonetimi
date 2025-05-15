@@ -29,7 +29,7 @@ namespace PersonelYonetimi
             string kullanici = tbKullanici.Text.Trim();
             string sifre = tbSifre.Text.Trim();
 
-            if (kullanici == "edanurrkbt" && sifre == "eda")
+            if (kullanici == "edanurrkbt" && sifre == "edaedaeda")
             {
                 FormPersonel formPersonel = new FormPersonel();
                 formPersonel.Show();
