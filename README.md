@@ -57,16 +57,12 @@ Uygulamayı test etmek için aşağıdaki bilgileri kullanabilirsiniz:
 ## 📸 Ekran Görüntüleri
 
 ### Giriş Ekranı
-![Giriş Ekranı](screenshots/login.png)
+![giris-ekrani](https://github.com/user-attachments/assets/693c3e59-f138-4a97-a0a2-0f0df05166a0)
 
 ### Ana Panel
-![Ana Panel](screenshots/dashboard.png)
-
+![ana-sayfa-ekrani](https://github.com/user-attachments/assets/b46cd3c1-785c-4b95-a2ed-5beb965b22e5)
 ### Personel Listesi
-![Personel Listesi](screenshots/personel-listesi.png)
-
-### Departman Yönetimi
-![Departman Yönetimi](screenshots/departman.png)
+![duzenleme-ekrani](https://github.com/user-attachments/assets/a8201464-06a3-4df9-84fc-d412a64a8145)
 
 ## 📚 Veritabanı Yapısı
 
@@ -96,24 +92,17 @@ Uygulamayı test etmek için aşağıdaki bilgileri kullanabilirsiniz:
 ## 👨‍💻 Geliştirici
 
 **Eda Nur**
-- GitHub: [@edanurrkbt](https://github.com/edanurrkbt)
+- GitHub: [@edanurkubat](https://github.com/edanurkubat)
 
 ## 📝 Lisans
 
 Bu proje eğitim amaçlı geliştirilmiştir.
 
-## 🤝 Katkıda Bulunma
 
-Bu proje bir ders projesidir, ancak önerilerinizi Issues bölümünden iletebilirsiniz.
 
 ---
 
 ⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!
 
 
-![giris-ekrani](https://github.com/user-attachments/assets/693c3e59-f138-4a97-a0a2-0f0df05166a0)
-![duzenleme-ekrani](https://github.com/user-attachments/assets/a8201464-06a3-4df9-84fc-d412a64a8145)
-![ana-sayfa-ekrani](https://github.com/user-attachments/assets/b46cd3c1-785c-4b95-a2ed-5beb965b22e5)
 
-
-MARMARA ÜNİVERSİTESİ BİLGİSAYAR PROGRAMCILIĞI VERİ TABANI YÖNETİM SİSTEMLERİ I DERSİ BAŞLANGIÇ SEVİYE PROJE ÇALIŞMASI
