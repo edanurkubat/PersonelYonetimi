@@ -70,10 +70,11 @@ Uygulamayı test etmek için aşağıdaki bilgileri kullanabilirsiniz:
 | Kolon Adı | Veri Tipi | Açıklama |
 |-----------|-----------|----------|
 | PersonelID | int | Primary Key |
-| Ad | nvarchar(50) | Personel adı |
-| Soyad | nvarchar(50) | Personel soyadı |
-| Pozisyon | nvarchar(50) | Görev unvanı |
+| PersonelIsım | nvarchar(50) | Personel adı |
+| PersonelSoyisim | nvarchar(50) | Personel soyadı |
+| PersonelMaas | decimal(10, 2) | Görev maas |
 | DepartmanID | int | Foreign Key |
+| PersonelPozisyon | nvarchar(50) | Görev tanımı |
 
 ### Departman Tablosu
 | Kolon Adı | Veri Tipi | Açıklama |
