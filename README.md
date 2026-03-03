@@ -12,9 +12,9 @@ Bu proje, C# ve SQL Server kullanılarak geliştirilmiş basit ve kullanıcı do
 - ✅ Departman yönetimi (ekleme, güncelleme)
 - ✅ Personel yönetimi (ekleme, silme, güncelleme, listeleme)
 - ✅ Gelişmiş arama ve filtreleme
-  - İsme göre arama
-  - Soyisme göre arama
-  - Pozisyona göre filtreleme
+- ✅ İsme göre arama
+- ✅ Soyisme göre arama
+- ✅ Pozisyona göre filtreleme
 
 ## 🛠️ Kullanılan Teknolojiler
 
