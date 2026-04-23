@@ -34,7 +34,7 @@ Bu proje, C# ve SQL Server kullanılarak geliştirilmiş basit ve kullanıcı do
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/personel-yonetim-sistemi.git
+git clone [https://github.com/edanurkubat/PersonelYonetimi.git]
 ```
 
 2. SQL Server'da veritabanını oluşturun:
